@@ -32,9 +32,9 @@ To resolve this issue:
 
 ## Instructor
 
-Instructor name
+Alain Chautard
 
-Instructor description
+Google Developer Expert in Angular - Microsoft MVP Web technologies
 
                             
 
