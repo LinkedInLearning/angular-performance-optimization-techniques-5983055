@@ -38,7 +38,7 @@ Instructor description
 
                             
 
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/alain-r-chautard).
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
