@@ -5,6 +5,8 @@ This is the repository for the LinkedIn Learning course `Angular Performance Opt
 
 ## Course Description
 
+This course equips you with the skills you need to analyze and improve the performance of your Angular applications. Learn how to identify common performance issues, implement optimizations for change detection, and ensure your applications run smoothly and efficiently by leveraging key techniques such as code splitting, lazy loading, data management, and server-side rendering. By the end of this course, you’ll be equipped with practical strategies to enhance user experience and responsiveness in real-world Angular projects.
+
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
 This repository has folders for each of the videos in the course.
@@ -35,7 +37,7 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/learning-ngrx
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-course-url]: https://www.linkedin.com/learning/angular-performance-optimization-techniques
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQHzW56OlDo3QQ/learning-public-crop_675_1200/B4EZYca0sAHkAY-/0/1744233516472?e=2147483647&v=beta&t=mOBwlReYPauepLs8Urx2hdRKNd5Uq4x51IbOXOIYDag
 
 
